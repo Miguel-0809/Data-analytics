@@ -1,0 +1,7 @@
+1.- Instalar entorno virtual
+pip install virtualenv
+
+2.- python -m virtualenv venv
+crea una carpeta para el entorno virtuala
+
+3.- venv/Scripts/activate
